@@ -1,0 +1,86 @@
+android.permission.GET_ACCOUNTS,GET_ACCOUNTS
+com.sonyericsson.home.permission.BROADCAST_BADGE,No Match
+android.permission.READ_PROFILE,No Match
+android.permission.MANAGE_ACCOUNTS,ACCOUNT_MANAGER
+android.permission.WRITE_SYNC_SETTINGS,WRITE_SYNC_SETTINGS
+android.permission.READ_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE
+android.permission.RECEIVE_SMS,RECEIVE_SMS
+com.android.launcher.permission.READ_SETTINGS,No Match
+android.permission.WRITE_SETTINGS,WRITE_SETTINGS
+com.google.android.providers.gsf.permission.READ_GSERVICES,No Match
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION,No Match
+android.permission.GET_TASKS,GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE
+android.permission.RECORD_AUDIO,RECORD_AUDIO
+com.huawei.android.launcher.permission.CHANGE_BADGE,No Match
+com.oppo.launcher.permission.READ_SETTINGS,No Match
+android.permission.CHANGE_NETWORK_STATE,CHANGE_NETWORK_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT,INSTALL_SHORTCUT
+android.permission.android.permission.READ_PHONE_STATE,READ_PHONE_STATE
+android.permission.CALL_PHONE,CALL_PHONE
+android.permission.WRITE_CONTACTS,WRITE_CONTACTS
+android.permission.READ_PHONE_STATE,READ_PHONE_STATE
+com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY,No Match
+android.permission.MODIFY_AUDIO_SETTINGS,MODIFY_AUDIO_SETTINGS
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.INTERNET,INTERNET
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS,MOUNT_UNMOUNT_FILESYSTEMS
+com.majeur.launcher.permission.UPDATE_BADGE,No Match
+android.permission.AUTHENTICATE_ACCOUNTS,No Match
+com.htc.launcher.permission.READ_SETTINGS,No Match
+android.permission.ACCESS_WIFI_STATE,ACCESS_WIFI_STATE
+android.permission.FLASHLIGHT,FLASHLIGHT
+android.permission.READ_APP_BADGE,No Match
+android.permission.USE_CREDENTIALS,No Match
+android.permission.CHANGE_CONFIGURATION,CHANGE_CONFIGURATION
+android.permission.READ_SYNC_SETTINGS,READ_SYNC_SETTINGS
+android.permission.BROADCAST_STICKY,BROADCAST_STICKY
+com.anddoes.launcher.permission.UPDATE_COUNT,No Match
+com.android.alarm.permission.SET_ALARM,SET_ALARM
+com.google.android.c2dm.permission.RECEIVE,No Match
+android.permission.KILL_BACKGROUND_PROCESSES,KILL_BACKGROUND_PROCESSES
+com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,No Match
+com.sec.android.provider.badge.permission.READ,No Match
+android.permission.WRITE_CALENDAR,WRITE_CALENDAR
+android.permission.SEND_SMS,SEND_SMS
+com.huawei.android.launcher.permission.WRITE_SETTINGS,No Match
+android.permission.REQUEST_INSTALL_PACKAGES,REQUEST_INSTALL_PACKAGES
+android.permission.SET_WALLPAPER_HINTS,SET_WALLPAPER_HINTS
+android.permission.SET_WALLPAPER,SET_WALLPAPER
+com.oppo.launcher.permission.WRITE_SETTINGS,No Match
+android.permission.RESTART_PACKAGES,RESTART_PACKAGES
+me.everything.badger.permission.BADGE_COUNT_WRITE,No Match
+android.permission.ACCESS_MOCK_LOCATION,No Match
+android.permission.ACCESS_COARSE_LOCATION,ACCESS_COARSE_LOCATION
+android.permission.READ_LOGS,READ_LOGS
+com.google.android.gms.permission.ACTIVITY_RECOGNITION,No Match
+com.amazon.device.messaging.permission.RECEIVE,No Match
+android.permission.SYSTEM_ALERT_WINDOW,SYSTEM_ALERT_WINDOW
+android.permission.DISABLE_KEYGUARD,DISABLE_KEYGUARD
+android.permission.USE_FINGERPRINT,USE_FINGERPRINT
+me.everything.badger.permission.BADGE_COUNT_READ,No Match
+android.permission.CHANGE_WIFI_STATE,CHANGE_WIFI_STATE
+android.permission.READ_CONTACTS,READ_CONTACTS
+com.android.vending.BILLING,No Match
+android.permission.READ_CALENDAR,READ_CALENDAR
+android.permission.RECEIVE_BOOT_COMPLETED,RECEIVE_BOOT_COMPLETED
+android.permission.WAKE_LOCK,WAKE_LOCK
+android.permission.ACCESS_FINE_LOCATION,ACCESS_FINE_LOCATION
+android.permission.BLUETOOTH,BLUETOOTH
+android.permission.CAMERA,CAMERA
+com.android.vending.CHECK_LICENSE,No Match
+android.permission.FOREGROUND_SERVICE,FOREGROUND_SERVICE
+android.permission.BLUETOOTH_ADMIN,BLUETOOTH_ADMIN
+android.permission.VIBRATE,VIBRATE
+android.permission.NFC,NFC
+android.permission.RECEIVE_USER_PRESENT,No Match
+android.permission.CLEAR_APP_CACHE,CLEAR_APP_CACHE
+com.android.launcher.permission.UNINSTALL_SHORTCUT,UNINSTALL_SHORTCUT
+com.sec.android.iap.permission.BILLING,No Match
+com.htc.launcher.permission.UPDATE_SHORTCUT,No Match
+com.sec.android.provider.badge.permission.WRITE,No Match
+android.permission.ACCESS_NETWORK_STATE,ACCESS_NETWORK_STATE
+com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,No Match
+com.huawei.android.launcher.permission.READ_SETTINGS,No Match
+android.permission.READ_SMS,READ_SMS
+android.permission.PROCESS_INCOMING_CALLS,PROCESS_OUTGOING_CALLS
