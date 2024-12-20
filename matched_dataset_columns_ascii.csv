@@ -29,7 +29,7 @@ com.majeur.launcher.permission.UPDATE_BADGE,No Match
 android.permission.AUTHENTICATE_ACCOUNTS,No Match
 com.htc.launcher.permission.READ_SETTINGS,No Match
 android.permission.ACCESS_WIFI_STATE,ACCESS_WIFI_STATE
-android.permission.FLASHLIGHT,FLASHLIGHT
+android.permission.FLASHLIGHT,No Match
 android.permission.READ_APP_BADGE,No Match
 android.permission.USE_CREDENTIALS,No Match
 android.permission.CHANGE_CONFIGURATION,CHANGE_CONFIGURATION
@@ -69,7 +69,7 @@ android.permission.ACCESS_FINE_LOCATION,ACCESS_FINE_LOCATION
 android.permission.BLUETOOTH,BLUETOOTH
 android.permission.CAMERA,CAMERA
 com.android.vending.CHECK_LICENSE,No Match
-android.permission.FOREGROUND_SERVICE,FOREGROUND_SERVICE
+android.permission.FOREGROUND_SERVICE,No Match
 android.permission.BLUETOOTH_ADMIN,BLUETOOTH_ADMIN
 android.permission.VIBRATE,VIBRATE
 android.permission.NFC,NFC
